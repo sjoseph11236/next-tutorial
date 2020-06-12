@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start" : "next start"
+    "start": "next start"
   },
   "repository": {
     "type": "git",
@@ -20,8 +20,11 @@
   },
   "homepage": "https://github.com/sjoseph11236/next-tutorial#readme",
   "dependencies": {
+    "bootstrap": "^4.5.0",
+    "isomorphic-unfetch": "^3.0.0",
     "next": "^9.4.4",
     "react": "^16.13.1",
+    "react-bootstrap": "^1.0.1",
     "react-dom": "^16.13.1"
   }
 }
